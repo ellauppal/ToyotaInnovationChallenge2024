@@ -1,4 +1,4 @@
-# Toyota Innovation Challenge 2023
+# Toyota Innovation Challenge 2024
 TurtleBot software capable of navigating through a course designed to imitate a manufacturing environment, featuring collision and stop sign detection.
 
 See boiler_plate.py for main code.
