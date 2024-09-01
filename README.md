@@ -1,7 +1,7 @@
 # Toyota Innovation Challenge 2024
 TurtleBot software capable of navigating through a course designed to imitate a manufacturing environment, featuring collision and stop sign detection.
 
-See boiler_plate.py for main code.
+See boiler_plate.py and TMMC_Wrapper/__init__.py for main code.
 
 ## Project Description
 -	Obstacle detection leverages a LiDAR sensor to provide real-time 3D mapping of the environment
